@@ -40,9 +40,10 @@ npm install
 ```bash
 npm start
 ```
----
 
 4. Open in your browser at: http://localhost:3000
+
+---
 
 📱 Usage
 
