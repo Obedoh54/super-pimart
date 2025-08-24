@@ -6,17 +6,17 @@ Built for **Pi Hackathon 2025**, Super PiMart transforms Pi into real-world valu
 ---
 
 ## 🚀 Features
-- 🧑‍🤝‍🧑 **User Accounts** — login with Pi credentials.  
-- 📦 **Product Listings** — sellers can add items with title, description, price (in Pi), and image.  
-- 💰 **Pi Payments** — secure transactions powered by the Pi SDK.  
-- 🔍 **Search & Categories** — easily find products or services.  
-- ⭐ **Ratings & Reviews** — build trust between buyers and sellers.  
+- 🧑‍🤝‍🧑 **User Accounts** — login with Pi credentials  
+- 📦 **Product Listings** — sellers can add items with title, description, price (in Pi), and image  
+- 💰 **Pi Payments** — secure transactions powered by the Pi SDK  
+- 🔍 **Search & Categories** — easily find products or services  
+- ⭐ **Ratings & Reviews** — build trust between buyers and sellers  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Frontend:** React (Pi Demo App starter)  
-- **Backend/DB:** [choose: Firebase / Supabase / Node.js / simple JSON]  
+- **Backend/DB:** Firebase / Supabase / Node.js / JSON (to be chosen)  
 - **Payments:** Pi SDK (Pi Wallet API)  
 - **Hosting:** Pi App Studio + GitHub  
 
@@ -25,34 +25,28 @@ Built for **Pi Hackathon 2025**, Super PiMart transforms Pi into real-world valu
 ## 📥 Installation (Local Development)
 1. Clone the repo:
    ```bash
-   git clone https://github.com/obedoh54/super-pimart.git
+   git clone https://github.com/YOUR-USERNAME/super-pimart.git
    cd super-pimart
-
-2. Install dependencies:
+Install dependencies:
 
 bash
 
 npm install
-
-3. Run the development server:
+Run the development server:
 
 bash
 
 npm start
-
-4. Open in your browser at http://localhost:3000.
-
+Open in your browser at: http://localhost:3000
 
 📱 Usage
+Open Super PiMart in the Pi Browser
 
-Open Super PiMart in the Pi Browser.
+Login with your Pi account
 
-Login with your Pi account.
+Browse listings or create your own
 
-Browse listings or create your own.
-
-Pay securely with Pi.
-
+Pay securely with Pi
 
 📜 Legal
 Privacy Policy: https://bit.ly/superpimart-pp
@@ -68,4 +62,8 @@ Category: Community Marketplace
 
 📧 Contact
 For support or questions:
-obedoh54@gmail.com
+📩 obedoh54@gmail.com
+
+yaml
+Copy
+Edit
