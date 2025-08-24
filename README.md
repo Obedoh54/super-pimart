@@ -62,6 +62,8 @@ Privacy Policy: https://bit.ly/superpimart-pp
 
 Terms of Service: https://bit.ly/superpimarttos
 
+---
+
 🏆 Hackathon Info
 
 Hackathon: Pi Hackathon 2025
@@ -69,6 +71,8 @@ Hackathon: Pi Hackathon 2025
 Team: Obedoh54
 
 Category: Community Marketplace
+
+---
 
 📧 Contact
 
