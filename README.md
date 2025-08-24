@@ -53,6 +53,7 @@ Browse listings or create your own.
 
 Pay securely with Pi.
 
+
 📜 Legal
 Privacy Policy: https://bit.ly/superpimart-pp
 
