@@ -27,37 +27,34 @@ Built for **Pi Hackathon 2025**, Super PiMart transforms Pi into real-world valu
    ```bash
    git clone https://github.com/obedoh54/super-pimart.git
    cd super-pimart
-Install dependencies:
+
+2. Install dependencies:
 
 bash
 
 npm install
-Run the development server:
+
+3. Run the development server:
 
 bash
 
 npm start
-Open in your browser at http://localhost:3000.
+
+4. Open in your browser at http://localhost:3000.
 
 📱 Usage
-Open Super PiMart in the Pi Browser.
-
-Login with your Pi account.
-
-Browse listings or create your own.
-
-Pay securely with Pi.
+. Open Super PiMart in the Pi Browser.
+. Login with your Pi account.
+. Browse listings or create your own.
+. Pay securely with Pi.
 
 📜 Legal
 Privacy Policy: https://bit.ly/superpimart-pp
-
 Terms of Service: https://bit.ly/superpimarttos
 
 🏆 Hackathon Info
 Hackathon: Pi Hackathon 2025
-
 Team: Obedoh54
-
 Category: Community Marketplace
 
 📧 Contact
