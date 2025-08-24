@@ -30,14 +30,12 @@ Built for **Pi Hackathon 2025**, Super PiMart transforms Pi into real-world valu
 Install dependencies:
 
 bash
-Copy
-Edit
+
 npm install
 Run the development server:
 
 bash
-Copy
-Edit
+
 npm start
 Open in your browser at http://localhost:3000.
 
