@@ -45,13 +45,13 @@ npm start
 
 📱 Usage
 
-. Open Super PiMart in the Pi Browser.
+Open Super PiMart in the Pi Browser.
 
-. Login with your Pi account.
+Login with your Pi account.
 
-. Browse listings or create your own.
+Browse listings or create your own.
 
-. Pay securely with Pi.
+Pay securely with Pi.
 
 📜 Legal
 Privacy Policy: https://bit.ly/superpimart-pp
