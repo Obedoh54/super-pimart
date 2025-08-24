@@ -40,7 +40,7 @@ npm install
 ```bash
 npm start
 ```
-
+---
 
 4. Open in your browser at: http://localhost:3000
 
@@ -53,6 +53,8 @@ Login with your Pi account
 Browse listings or create your own
 
 Pay securely with Pi
+
+---
 
 📜 Legal
 
