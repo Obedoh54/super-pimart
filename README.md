@@ -1,31 +1,67 @@
-# Pi Demo App
+# 🛒 Super PiMart
 
-Pi Demo App is an example of how you can implement the various required flows in your app's code.
-It aims to show you how to use Pi Platform API on the backend side and Pi SDK on the frontend side of your app.
+**Super PiMart** is a community-driven marketplace where Pioneers can buy, sell, and exchange goods and services using **Pi cryptocurrency**.  
+Built for **Pi Hackathon 2025**, Super PiMart transforms Pi into real-world value while connecting local and global communities.  
 
+---
 
-It is composed of two major parts:
+## 🚀 Features
+- 🧑‍🤝‍🧑 **User Accounts** — login with Pi credentials.  
+- 📦 **Product Listings** — sellers can add items with title, description, price (in Pi), and image.  
+- 💰 **Pi Payments** — secure transactions powered by the Pi SDK.  
+- 🔍 **Search & Categories** — easily find products or services.  
+- ⭐ **Ratings & Reviews** — build trust between buyers and sellers.  
 
-* **backend**: a backend app (a very simple JSON API built using Node and ExpressJS)
-* **frontend**: a single-page frontend app (built using React and create-react-app)
+---
 
+## 🛠️ Tech Stack
+- **Frontend:** React (Pi Demo App starter)  
+- **Backend/DB:** [choose: Firebase / Supabase / Node.js / simple JSON]  
+- **Payments:** Pi SDK (Pi Wallet API)  
+- **Hosting:** Pi App Studio + GitHub  
 
-## Initial Development
+---
 
-Read [`doc/development.md`](./doc/development.md) to get started and learn how to run this app in development.
+## 📥 Installation (Local Development)
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/obedoh54/super-pimart.git
+   cd super-pimart
+Install dependencies:
 
-> **WARNING**
->
-> The demo app uses express session cookies which, in the Sandbox environment, are not correctly saved on the client on some browsers.
-> To properly test all of the features of the Demo App, we recommend you to open the sandbox app using Mozilla Firefox.
+bash
+Copy
+Edit
+npm install
+Run the development server:
 
+bash
+Copy
+Edit
+npm start
+Open in your browser at http://localhost:3000.
 
-## Deployment
+📱 Usage
+Open Super PiMart in the Pi Browser.
 
-Read [`doc/deployment.md`](./doc/deployment.md) to learn how to deploy this app on a server using Docker and docker-compose.
+Login with your Pi account.
 
+Browse listings or create your own.
 
-## Flows
+Pay securely with Pi.
 
-To dive into the implementation of the flows that support the demo app features, please refer to
-[Pi Demo App Flows](./FLOWS.md).
+📜 Legal
+Privacy Policy: https://bit.ly/superpimart-pp
+
+Terms of Service: https://bit.ly/superpimarttos
+
+🏆 Hackathon Info
+Hackathon: Pi Hackathon 2025
+
+Team: Obedoh54
+
+Category: Community Marketplace
+
+📧 Contact
+For support or questions:
+obedoh54@gmail.com
