@@ -42,6 +42,7 @@ npm start
 
 4. Open in your browser at http://localhost:3000.
 
+
 📱 Usage
 
 . Open Super PiMart in the Pi Browser.
@@ -51,11 +52,14 @@ npm start
 
 📜 Legal
 Privacy Policy: https://bit.ly/superpimart-pp
+
 Terms of Service: https://bit.ly/superpimarttos
 
 🏆 Hackathon Info
 Hackathon: Pi Hackathon 2025
+
 Team: Obedoh54
+
 Category: Community Marketplace
 
 📧 Contact
