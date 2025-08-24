@@ -43,6 +43,7 @@ npm start
 4. Open in your browser at http://localhost:3000.
 
 📱 Usage
+
 . Open Super PiMart in the Pi Browser.
 . Login with your Pi account.
 . Browse listings or create your own.
